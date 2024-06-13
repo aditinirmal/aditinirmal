@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditinirmal&label=Profile%20views&color=0e75b6&style=flat" alt="aditinirmal" /> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Machine learning**
+
+- 👨‍💻Feel Free to reach out to me here: **aditinirmal15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
