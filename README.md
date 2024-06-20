@@ -1,4 +1,4 @@
-[![MAsterHead](https://img.freepik.com/premium-photo/lofi-girl-study-mode-wearing-headphones-immersed-learning_940839-48.jpg)]
+![MAsterHead](https://img.freepik.com/premium-photo/lofi-girl-study-mode-wearing-headphones-immersed-learning_940839-48.jpg)
 <h1 align="center">Hi 👋, I'm Aditi☺</h1>
 <h3 align="center">A passionate Developer,Coder ,Programmer</h3>
 
